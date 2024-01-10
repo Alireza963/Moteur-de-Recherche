@@ -7,4 +7,4 @@ main1.py : Comprend toutes les fonctionnalités finales et les tests unitaires. 
 
 document.py, corpus.py, author.py : Ces fichiers représentent les bases du projet, développés initialement et continuellement améliorés. Ils définissent les classes et méthodes pour le traitement des données.
 
-interface_terminal.py et dashboard_app.py : Introduits dans la phase finale, ces fichiers offrent deux interfaces différentes pour interagir avec le système : une en ligne de commande et une autre basée sur Dash pour une expérience utilisateur graphique.
+interface_terminale.py et dashboard_app.py : Introduits dans la phase finale, ces fichiers offrent deux interfaces différentes pour interagir avec le système : une en ligne de commande et une autre basée sur Dash pour une expérience utilisateur graphique.
